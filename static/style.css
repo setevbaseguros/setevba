@@ -1,3 +1,8 @@
+body, html {
+    overflow-x:hidden;
+}
+
+
 .div1 {
     box-sizing: border-box;
     width: 100%;
